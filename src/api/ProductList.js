@@ -9,7 +9,7 @@ const ProductList = () => {
         product_category: '',
         product_type:'',
         product_discount:'',
-        product_size:[],
+        product_size:ZxZXzX[],
         product_picture: null,
         picturePath: ''
     });
